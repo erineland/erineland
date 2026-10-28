@@ -23,4 +23,4 @@ The repos below are pulled out of that system and made generic. The common threa
 
 ## 📫 Say hi
 
-Open an issue on any repo, or find me on LinkedIn (Erin Eland, London).
+Find me on [LinkedIn](https://www.linkedin.com/in/erineland/), or open an issue on any repo.
