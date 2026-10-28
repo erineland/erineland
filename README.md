@@ -12,6 +12,7 @@ The repos below are pulled out of that system and made generic. The common threa
 |---|---|---|
 | [**claude-code-guardrails**](https://github.com/erineland/claude-code-guardrails) | `PreToolUse` hooks for Claude Code, plus a width-aware status line | Every write to money or mail becomes a plain-English permission prompt; secrets stay out of the transcript; unparseable input still asks |
 | [**whatsapp-readonly-mcp**](https://github.com/erineland/whatsapp-readonly-mcp) | MCP server that reads WhatsApp Desktop's local database | Designed against prompt injection: no send capability, network blocked, every read audit-logged, chats can be walled off |
+| [**imessage-readonly-mcp**](https://github.com/erineland/imessage-readonly-mcp) | MCP server that reads iMessage/SMS from the Mac's local database | Read-only; phone numbers masked and one-time codes redacted before the model sees them; network blocked; 35 offline tests |
 | [**icloud-drive-mcp**](https://github.com/erineland/icloud-drive-mcp) | Spotlight-backed search and reading of iCloud Drive, including PDF text | Zero dependencies; fast search over millions of files without walking the tree |
 
 ## 🧭 How I like to build
