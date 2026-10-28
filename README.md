@@ -4,6 +4,8 @@ I'm a software engineer in London with ten years of shipping web products at sca
 
 These days most of my building happens *around* the code: I design AI agent systems that do real work, safely. I run a personal Claude Code setup every day with dozens of skills, my own MCP servers, hooks and scheduled jobs. It handles my mail, calendar, budgeting checks, smart home and admin, and it's built so that it **can't** do the dangerous things by accident.
 
+**Start here → [claude-code-personal-assistant](https://github.com/erineland/claude-code-personal-assistant):** a case study of the whole system: how it's designed, what broke, and how I ship software with several Claude sessions in parallel.
+
 ## 🛡️ Safe agents for real life
 
 The repos below are pulled out of that system and made generic. The common thread: **give an agent real access, but make the risky paths fail closed.**
