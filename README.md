@@ -26,4 +26,4 @@ The repos below are pulled out of that system and made generic. The common threa
 
 ## 📫 Say hi
 
-Find me on [LinkedIn](https://www.linkedin.com/in/erineland/), or open an issue on any repo.
+Find me at [erineland.com](https://erineland.com) and on [LinkedIn](https://www.linkedin.com/in/erineland/), or open an issue on any repo.
